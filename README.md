@@ -1,4 +1,10 @@
 # 新・明解C言語 中級編 - 学習記録  
+  ## 開発環境の変遷  
+- 入門編：EasyIDEC  
+- 中級編以降：Visual Studio Community 2022  
+Visual Studioに移行したため、GitHubではC++として表示されますが、  
+コードは純粋なC言語で書かれています。  
+
 ### 第1章「数あてゲーム」  
 
   
